@@ -1,8 +1,12 @@
+import './index.css'
+
 function App() {
 
   return (
     <div>
-        <p>Hello React</p>
+      <h1 className="text-3xl font-bold text-blue-500">
+        Hello world!
+      </h1>
     </div>
   )
 }
